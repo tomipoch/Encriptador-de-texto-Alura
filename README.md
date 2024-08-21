@@ -19,7 +19,7 @@ Este proyecto es una aplicación web sencilla que permite codificar y decodifica
 
 ### Vista Principal
 
-![Vista Principal](ruta/a/tu/captura1.png)
+![Vista Principal](/repositorio/Principal)
 
 ### Codificación de Texto
 
