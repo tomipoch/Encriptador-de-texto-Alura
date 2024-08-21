@@ -19,7 +19,7 @@ Este proyecto es una aplicación web sencilla que permite codificar y decodifica
 
 ### Vista Principal
 
-![Vista Principal](repositorio/Principal.png)
+![Vista Principal](repositorio/)
 
 ### Codificación de Texto
 
