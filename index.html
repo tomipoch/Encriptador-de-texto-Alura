@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decodificador</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <main>
+        <div class="icono-alura"><img src="img/Logo.png" alt="logo"></div>
+        <div class="entrada-texto">
+            <textarea name="entrada" cols="30" rows="10" placeholder="Ingrese el texto aqui"></textarea>
+        
+            <div class="seccion-botones">
+
+                <p> <span>!</span> Solo letras minúsculas y sin acentos</p>    
+                <button onclick="botonCodificar();" class="boton-encriptar">Encriptar</button>
+                <button onclick="botonDecodificar();" class="boton-desencriptar">Desencriptar</button>
+            </div>
+            
+        </div>
+
+        <div class="respuesta">
+            <img src="img/Muñeco.png" alt="imagen por defecto">
+            
+            <h1>Ningún mensaje fue encontrado</h1>
+            <h2>Ingrese el texto que desees encriptar o desencriptar.</h2>
+            
+            <button onclick="copiarTexto();" id="boton-copia">Copiar</button>
+
+        </div>
+
+    </main>
+      
+    <script src="app.js"></script>
+</body>
+</html>
