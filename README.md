@@ -19,15 +19,15 @@ Este proyecto es una aplicación web sencilla que permite codificar y decodifica
 
 ### Vista Principal
 
-![Vista Principal](/repositorio/Principal)
+![Vista Principal](repositorio/Principal.png)
 
 ### Codificación de Texto
 
-![Codificación](ruta/a/tu/captura2.png)
+![Codificación](repositorio/Codificador.png)
 
 ### Decodificación de Texto
 
-![Decodificación](ruta/a/tu/captura3.png)
+![Decodificación](repositorio/Decodificador.png)
 
 ## Cómo Usar
 
